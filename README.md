@@ -3,6 +3,14 @@ Ideas for Experimental Setup in robotics
 
 ## Indoor Experiments
 
+#### Dynamic Obstacles
+
+[<img src="Images/DynamicObstacle.png" width="480" />]() <br>
+
+- Uses a drone as a "controllable" dynamic obstacle. Attaches yoga mats on sides of drone to make it look "boxy".
+- [Product Source](https://www.amazon.com/We-Sell-Mats-Printed-Interlocking/dp/B003R2JATU/ref=sr_1_6?crid=KA0M5UZGZAKZ&keywords=wood+yoga+mat&qid=1651384106&sprefix=wood+yoga+mat%2Caps%2C51&sr=8-6)
+- [Paper Source](https://arxiv.org/abs/2103.06372)
+
 #### Fake Forest
 
 [<img src="Images/IkeaForest.jpg" width="480" />]() <br>
